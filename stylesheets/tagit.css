@@ -233,35 +233,35 @@ _/      _/_/_/    _/_/_/      _/      _/_/
     background-size: 100%;
 }
 .jenkins_tag {
-    background:url('/tags/jenkins.png') no-repeat;
+    background:url('../tags/jenkins.png') no-repeat;
 }
 .java_tag {
-    background:url('/tags/java.png') no-repeat;
+    background:url('../tags/java.png') no-repeat;
 }
 .spring_tag, .spring-data_tag, .spring-data-jpa_tag{
-    background:url('/tags/springio.png') no-repeat;
+    background:url('../tags/springio.png') no-repeat;
 }
 .hibernate_tag {
-    background:url('/tags/hibernate.png') no-repeat;
+    background:url('../tags/hibernate.png') no-repeat;
 }
 .terminal_tag {
-    background:url('/tags/terminal.png') no-repeat;
+    background:url('../tags/terminal.png') no-repeat;
 }
 .maven_tag {
-    background:url('/tags/maven.png') no-repeat;
+    background:url('../tags/maven.png') no-repeat;
 }
 .git_tag {
-    background:url('/tags/git.png') no-repeat;
+    background:url('../tags/git.png') no-repeat;
 }
 .manjaro_tag {
-    background:url('/tags/manjaro.png') no-repeat;
+    background:url('../tags/manjaro.png') no-repeat;
 }
 .jboss_tag {
-    background:url('/tags/jboss.png') no-repeat;
+    background:url('../tags/jboss.png') no-repeat;
 }
 .postgresql_tag {
-    background:url('/tags/postgresql.png') no-repeat;
+    background:url('../tags/postgresql.png') no-repeat;
 }
 .jekyll_tag {
-    background:url('/tags/jekyll.png') no-repeat;
+    background:url('../tags/jekyll.png') no-repeat;
 }
